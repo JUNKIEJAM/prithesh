@@ -1,0 +1,21 @@
+{
+  "name": "excercies",
+  "version": "1.0.0",
+  "description": "Coursera Bootstrap practice",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -o css/ css/"
+  },
+  "author": "Prayas Kumar Singh",
+  "license": "ISC"
+}
